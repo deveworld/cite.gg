@@ -20,4 +20,7 @@
     #main {
         margin-top: 50px;
     }
+    .vgt-table.polar-bear.bordered span {
+        cursor: pointer;
+    }
 </style>
